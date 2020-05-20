@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Michael Evans is a senior at NC State graduating in December 2020 with a degree in statistics. He is part of the accelerated master's program and is taking courses that count for both his bachlor's and master's degrees. 
 
-### More Information
+### Quick Facts
 
-A place to include any other types of information that you'd like to include about yourself.
+- *Favorite Coding Language*
+  - R
+- *Hobbies*
+  - Spending time with family and friends, reading, traveling
+- Favorite Local Restaurant
+  - Lilly's Pizza in Raleigh, NC
+- Favorite Sports Teams
+  - Phillies, Eagles
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mrevans7@ncsu.edu](mailto:mrevans7@ncsu.edu)
