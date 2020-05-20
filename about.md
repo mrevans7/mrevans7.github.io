@@ -8,16 +8,16 @@ Michael Evans is a senior at NC State graduating in December 2020 with a degree 
 
 ### Quick Facts
 
-- **Occupation**
-  - Co-Founder and CFO of [321 Coffee](https://321coffee.com)
-- **Favorite Coding Language**
-  - R
-- **Hobbies**
-  - Spending time with family and friends, reading, traveling
-- **Favorite Local Restaurant**
-  - [Lilly's Pizza in Raleigh, NC](https://lillyspizza.com)
-- **Favorite Sports Teams**
-  - Phillies, Eagles
+* **Occupation**
+  + Co-Founder and CFO of [321 Coffee](https://321coffee.com)
+* **Favorite Coding Language**
+  + R
+* **Hobbies**
+  + Spending time with family and friends, reading, traveling
+* **Favorite Local Restaurant**
+  + [Lilly's Pizza in Raleigh, NC](https://lillyspizza.com)
+* **Favorite Sports Teams**
+  + Phillies, Eagles
 
 ### Contact me
 
