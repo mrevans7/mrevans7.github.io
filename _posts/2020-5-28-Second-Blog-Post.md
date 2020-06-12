@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R vs. Other Programming Languages
+title: R vs. Other Programming Languages Test
 ---
 I have previous coding experience using Python and SAS. While my experience with both is a little more limited than my experience with R, I definitely enjoy using R the most. I feel like R and Python share a lot of similarities. Syntax is fairly similar, and both use packages to help make coding easier. In my experience with Python, I haven't used packages a ton, so I am not able to say how they compare to the packages in R. One thing that I liked about R that Python didn't have was RStudio. I really liked that R already had a platform that could be used to write and run code in one place. Python has this, but in my experience, it is only ever with external programs. 
 
