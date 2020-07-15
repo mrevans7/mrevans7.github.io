@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 2 Reflection
+title: Project 4 Reflection
 ---
 
 My vignette can be found [here](https://mrevans7.github.io/ST558_Project2/).
